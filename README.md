@@ -16,7 +16,7 @@ For Frontend - `cd frontend` `npm i`
 
 | Client-side             | Server-side          |
 |-------------------------|----------------------|
-| axios | |cors|
+| axios  |cors|
 | redux-toolkit| body-parser |
 | react   |express|
 | react-dom  | mongoose|
