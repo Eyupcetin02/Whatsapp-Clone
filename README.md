@@ -20,6 +20,6 @@ For Frontend - `cd frontend` `npm i`
 | redux-toolkit| body-parser |
 | react   |express|
 | react-dom  | mongoose|
-| react-redux | 
+| react-redux | socket.io|
 | react-router-dom| 
 
