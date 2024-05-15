@@ -8,9 +8,9 @@ Must have basic knowledge of Node, React, Express, MongoDB.
 
 ## Install Dependencies
 
-For Backend - `npm i`
+For Backend - `cd server` `npm i`
 
-For Frontend - `cd frontend` `npm i` 
+For Frontend - `cd client` `npm i` 
 
 ## Dependencies
 
